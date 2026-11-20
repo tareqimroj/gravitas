@@ -94,3 +94,14 @@ Screenshots will be added as the game is developed.
 ## How to Run
 
 Instructions will be added when the first playable version is ready.
+
+## Project Documentation
+
+[View Project Proposal](Project_Proposal.pdf)
+
+## Project Status
+
+Currently in the proposal phase.
+
+Game development has not started yet.
+
